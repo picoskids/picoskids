@@ -1,16 +1,25 @@
-# hey, i'm valveular
+<div align="center">
 
-i make mods for [Gorilla Tag](https://store.steampowered.com/app/1533390/Gorilla_Tag/).
+# valveular
 
-## projects
+**gorilla tag mod developer**
 
-| | |
-|---|---|
-| **[Radius Tag](https://valveulargt.itch.io/radius-tag)** | a gorilla tag mod — download on itch.io |
-| **[blepgames.org](https://blepgames.org)** | my site |
+[![Website](https://img.shields.io/badge/blepgames.org-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://blepgames.org)
 
-## stuff i use
+</div>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![BepInEx](https://img.shields.io/badge/BepInEx-mod%20framework-blue?style=flat)
+---
+
+### what i use
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![BepInEx](https://img.shields.io/badge/BepInEx-5C2D91?style=for-the-badge&logoColor=white)
+
+---
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ValveularGT&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true)
+
+</div>
