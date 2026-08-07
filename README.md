@@ -5,6 +5,7 @@
 **gorilla tag mod developer**
 
 [![Website](https://img.shields.io/badge/blepgames.org-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://blepgames.org)
+[![Discord](https://img.shields.io/badge/picoauth2-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/picoauth2)
 
 </div>
 
