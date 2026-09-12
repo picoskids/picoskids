@@ -22,6 +22,6 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ValveularGT&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true)
+[![le stats](https://github-stats-extended.vercel.app/api?username=picoskids)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
